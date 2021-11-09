@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1629827581 source:d:\nsu\c++ programming\sakib\assignment-3\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1629825463 source:d:\nsu\c++ programming\sakib\assignment-3\stacktype.cpp
+	"StackType.h"
+
+1629825469 d:\nsu\c++ programming\sakib\assignment-3\stacktype.h
+
+1629825463 d:\nsu\c++ programming\sakib\assignment-3\stacktype.cpp
+	"StackType.h"
+
+1629825219 d:\nsu\c++ programming\sakib\assignment-3\quetype.h
+	"stacktype.h"
+
+1629825207 d:\nsu\c++ programming\sakib\assignment-3\quetype.cpp
+	"quetype.h"
+	"StackType.cpp"
+
+1629825207 source:d:\nsu\c++ programming\sakib\assignment-3\quetype.cpp
+	"quetype.h"
+	"StackType.cpp"
+

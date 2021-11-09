@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1630673328 source:d:\nsu\c++ programming\sakib\lab-02_task-3\main.cpp
+	<iostream>
+	"dynarr.h"
+
+1630672969 d:\nsu\c++ programming\sakib\lab-02_task-3\dynarr.h
+	<iostream>
+
+1630673194 source:d:\nsu\c++ programming\sakib\lab-02_task-3\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+

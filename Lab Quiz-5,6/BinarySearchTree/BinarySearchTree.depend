@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1590592055 source:c:\users\shakir ahmed\desktop\cse-225\binarysearchtree\binarysearchtree\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1590591889 c:\users\shakir ahmed\desktop\cse-225\binarysearchtree\binarysearchtree\binarysearchtree.h
+	"QueueType.h"
+	"BinarySearchTree.tpp"
+
+1590591844 c:\users\shakir ahmed\desktop\cse-225\binarysearchtree\binarysearchtree\queuetype.h
+	"QueueType.tpp"
+
+1590591844 c:\users\shakir ahmed\desktop\cse-225\binarysearchtree\binarysearchtree\queuetype.tpp
+	"QueueType.h"
+	<iostream>
+
+1590592182 c:\users\shakir ahmed\desktop\cse-225\binarysearchtree\binarysearchtree\binarysearchtree.tpp
+	"BinarySearchTree.h"
+	<iostream>
+
+1591022863 source:c:\users\shakir ahmed\desktop\samin\finalassignment(2020)\cse-225\final exam lab\task-2\binarysearchtree\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1590592645 c:\users\shakir ahmed\desktop\samin\finalassignment(2020)\cse-225\final exam lab\task-2\binarysearchtree\binarysearchtree.h
+	"QueueType.h"
+	"BinarySearchTree.tpp"
+
+1590591844 c:\users\shakir ahmed\desktop\samin\finalassignment(2020)\cse-225\final exam lab\task-2\binarysearchtree\queuetype.h
+	"QueueType.tpp"
+
+1590591844 c:\users\shakir ahmed\desktop\samin\finalassignment(2020)\cse-225\final exam lab\task-2\binarysearchtree\queuetype.tpp
+	"QueueType.h"
+	<iostream>
+
+1591022863 c:\users\shakir ahmed\desktop\samin\finalassignment(2020)\cse-225\final exam lab\task-2\binarysearchtree\binarysearchtree.tpp
+	"BinarySearchTree.h"
+	<iostream>
+
+1591266840 source:d:\nsu\c++ programming\sakib\task-2\binarysearchtree\main.cpp
+	<iostream>
+	"BinarySearchTree.h"
+
+1591266840 d:\nsu\c++ programming\sakib\task-2\binarysearchtree\binarysearchtree.h
+	"QueueType.h"
+	"BinarySearchTree.tpp"
+
+1591266840 d:\nsu\c++ programming\sakib\task-2\binarysearchtree\queuetype.h
+	"QueueType.tpp"
+
+1591266840 d:\nsu\c++ programming\sakib\task-2\binarysearchtree\queuetype.tpp
+	"QueueType.h"
+	<iostream>
+
+1591266840 d:\nsu\c++ programming\sakib\task-2\binarysearchtree\binarysearchtree.tpp
+	"BinarySearchTree.h"
+	<iostream>
+

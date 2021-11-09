@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1631057807 source:d:\nsu\c++ programming\sakib\lab-4\unsortedtype.cpp
+	"UnsortedType.h"
+
+1631057807 d:\nsu\c++ programming\sakib\lab-4\unsortedtype.h
+
+1631057297 source:d:\nsu\c++ programming\sakib\lab-4\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1631057807 d:\nsu\c++ programming\sakib\lab-4\unsortedtype.cpp
+	"UnsortedType.h"
+
+1631057807 d:\nsu\c++ programming\sakib\lab-4\studentinfo.h
+	<iostream>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+
+1631055103 source:d:\nsu\c++ programming\sakib\lab-4\studentinfo.cpp
+	"studentInfo.h"
+

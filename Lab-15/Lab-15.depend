@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1631030149 source:d:\nsu\c++ programming\sakib\lab-15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1630919953 d:\nsu\c++ programming\sakib\lab-15\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1630920079 d:\nsu\c++ programming\sakib\lab-15\stacktype.h
+
+1630920013 d:\nsu\c++ programming\sakib\lab-15\quetype.h
+
+1630920054 d:\nsu\c++ programming\sakib\lab-15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1630919985 d:\nsu\c++ programming\sakib\lab-15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1631028974 source:d:\nsu\c++ programming\sakib\lab-15\main.cpp
+	<iostream>
+	"graphtype.cpp"
+
+1631030149 d:\nsu\c++ programming\sakib\lab-15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1630919985 source:d:\nsu\c++ programming\sakib\lab-15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1630920054 source:d:\nsu\c++ programming\sakib\lab-15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

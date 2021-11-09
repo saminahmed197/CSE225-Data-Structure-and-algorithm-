@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1628414143 source:d:\nsu\c++ programming\sakib\lb-08\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<string>
+	<stack>
+	"stacktype.cpp"
+
+1627987048 d:\nsu\c++ programming\sakib\lb-08\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1627986809 d:\nsu\c++ programming\sakib\lb-08\stacktype.h
+
+1627987048 source:d:\nsu\c++ programming\sakib\lb-08\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1629300590 source:d:\nsu\c++ programming\sakib\theory_assignment-3(queue implementation using linked list)\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1629301515 source:d:\nsu\c++ programming\sakib\theory_assignment-3(queue implementation using linked list)\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1629299936 d:\nsu\c++ programming\sakib\theory_assignment-3(queue implementation using linked list)\quetype.h
+
+1629301515 d:\nsu\c++ programming\sakib\theory_assignment-3(queue implementation using linked list)\quetype.cpp
+	"quetype.h"
+	<iostream>
+

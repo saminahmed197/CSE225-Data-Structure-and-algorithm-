@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1629128405 source:d:\nsu\c++ programming\sakib\assignment-2\unsortedtype.cpp
+	"UnsortedType.h"
+
+1629128405 d:\nsu\c++ programming\sakib\assignment-2\unsortedtype.h
+
+1629128730 source:d:\nsu\c++ programming\sakib\assignment-2\sortedlist.cpp
+	"SortedList.h"
+	<iostream>
+
+1629128642 d:\nsu\c++ programming\sakib\assignment-2\sortedlist.h
+
+1629129587 source:d:\nsu\c++ programming\sakib\assignment-2\main.cpp
+	<iostream>
+	"UnsortedList.cpp"
+	"SortedList.cpp"
+
+1629128405 d:\nsu\c++ programming\sakib\assignment-2\unsortedtype.cpp
+	"UnsortedType.h"
+
+1629128730 d:\nsu\c++ programming\sakib\assignment-2\sortedlist.cpp
+	"SortedList.h"
+	<iostream>
+
+1629130209 d:\nsu\c++ programming\sakib\assignment-2\unsortedlist.cpp
+	"UnsortedList.h"
+
+1629130226 d:\nsu\c++ programming\sakib\assignment-2\unsortedlist.h
+
+1629130209 source:d:\nsu\c++ programming\sakib\assignment-2\unsortedlist.cpp
+	"UnsortedList.h"
+

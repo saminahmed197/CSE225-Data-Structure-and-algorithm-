@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627819040 source:d:\nsu\c++ programming\sakib\lab-7\main.cpp
+	<iostream>
+	"queuetype.cpp"
+
+1627815282 d:\nsu\c++ programming\sakib\lab-7\queuetype.cpp
+	"queuetype.h"
+
+1627814889 d:\nsu\c++ programming\sakib\lab-7\queuetype.h
+
+1627815282 source:d:\nsu\c++ programming\sakib\lab-7\queuetype.cpp
+	"queuetype.h"
+

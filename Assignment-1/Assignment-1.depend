@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1628440976 source:d:\nsu\c++ programming\sakib\assignment-1\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Fraction.h"
+
+1628273707 d:\nsu\c++ programming\sakib\assignment-1\triangle.h
+
+1628273074 d:\nsu\c++ programming\sakib\assignment-1\triangle.cpp
+	"triangle.h"
+	<cmath>
+
+1628273985 source:d:\nsu\c++ programming\sakib\assignment-1\triangle.cpp
+	"Triangle.h"
+	<cmath>
+
+1628439758 d:\nsu\c++ programming\sakib\assignment-1\fraction.h
+
+1628440417 source:d:\nsu\c++ programming\sakib\assignment-1\fraction.cpp
+	"Fraction.h"
+

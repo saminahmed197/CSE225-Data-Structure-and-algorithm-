@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1628593289 source:d:\nsu\c++ programming\sakib\lab-9\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1628592334 d:\nsu\c++ programming\sakib\lab-9\quetype.h
+
+1628592334 source:d:\nsu\c++ programming\sakib\lab-9\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1628592334 d:\nsu\c++ programming\sakib\lab-9\quetype.cpp
+	"quetype.h"
+	<iostream>
+

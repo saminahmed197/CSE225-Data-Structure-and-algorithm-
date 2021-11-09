@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1629053638 source:d:\nsu\c++ programming\sakib\theory_assignment-2(stack implementation using linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1629053042 d:\nsu\c++ programming\sakib\theory_assignment-2(stack implementation using linked list)\stacktype.h
+
+1629053700 source:d:\nsu\c++ programming\sakib\theory_assignment-2(stack implementation using linked list)\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1629053638 d:\nsu\c++ programming\sakib\theory_assignment-2(stack implementation using linked list)\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+

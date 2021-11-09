@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514140574 source:d:\lab\spring 20\cse225l.8-9\manuals and solutions\lab 05\unsortedlist\main.cpp
+	<iostream>
+
+1582965411 source:c:\users\user\desktop\1821734042lab-5\unsortedlist (1)\unsortedlist\main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1582964634 c:\users\user\desktop\1821734042lab-5\unsortedlist (1)\unsortedlist\unsortedtype.h
+	"UnsortedType.tpp"
+
+1582964641 c:\users\user\desktop\1821734042lab-5\unsortedlist (1)\unsortedlist\unsortedtype.tpp
+	"UnsortedType.h"
+
+1629127657 source:c:\users\shakir ahmed\downloads\1821734042lab-5\1821734042\main.cpp
+	<iostream>
+	"UnsortedType.h"
+
+1629127724 c:\users\shakir ahmed\downloads\1821734042lab-5\1821734042\unsortedtype.h
+	"UnsortedType.tpp"
+
+1629127499 c:\users\shakir ahmed\downloads\1821734042lab-5\1821734042\unsortedtype.tpp
+	"UnsortedType.h"
+

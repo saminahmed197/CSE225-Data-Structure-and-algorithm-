@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1628876192 source:d:\nsu\c++ programming\sakib\assignment-1(application of stack)\main.cpp
+	<iostream>
+	"StackType.cpp"
+
+1628872460 d:\nsu\c++ programming\sakib\assignment-1(application of stack)\stacktype.cpp
+	"StackType.h"
+
+1628872474 d:\nsu\c++ programming\sakib\assignment-1(application of stack)\stacktype.h
+
+1628872460 source:d:\nsu\c++ programming\sakib\assignment-1(application of stack)\stacktype.cpp
+	"StackType.h"
+
